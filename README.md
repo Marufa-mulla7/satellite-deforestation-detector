@@ -5,7 +5,7 @@ An end-to-end Deep Learning pipeline built using **PyTorch** and **ResNet** arch
 ---
 
 ## 📌 Features
-*  **Custom Dataset Loader:** Preprocesses and normalizes multispectral satellite images.
+* **Custom Dataset Loader:** Preprocesses and normalizes multispectral satellite images.
 * **ResNet Model Architecture:** Transfer learning with ResNet for high classification accuracy.
 * **Automated Metrics:** Evaluates Precision, Recall, F1-Score, and Loss curves during training.
 * **Google Colab Integration:** Ready-to-run notebook workflow directly linked with GitHub.
